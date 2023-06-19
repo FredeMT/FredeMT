@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-### Top Languages
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FredeMT&layout=compact)
+<img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FredeMT&layout=compact&langs_count=16&theme=default"/>
+
 
 
 <!--
@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
